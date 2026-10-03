@@ -1,76 +1,364 @@
+<div align="center">
 
-
-
-<h1 align="center">Hi 👋, I'm SixTails</h1>
-<h3 align="center">A passionate Metin2 developer and guitarist from Turkey.</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acarfx" alt="SixTails" /></a> </p>
-<img align="right" height="150" src="https://user-images.githubusercontent.com/100753345/236597853-c5e3f5d6-36a2-425a-bc76-4f9bfe2a2885.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protoX-SixTails&label=Profile%20views&color=1d1f20&style=flat-square" alt="SixTails" /> </p>
-
-- SixTails.work : [WebSite](https://SixTails.work/)
-- Turkmmo : [Turkmmo Profile](https://forum.turkmmo.com/uye/2433165-sixtails/)
--
--
--
-
-
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
-
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-<a href="https://www.mmotutkunlari.com/uye/SixTails/" target="_blank">
-<img src=https://img.shields.io/badge/SixTails-MmoTutkanlari-lightgrey alt=mmotutkunlari style="margin-bottom: 5px;" />
+<a href="https://www.sixtails.com.tr/">
+<img src="https://www.sixtails.com.tr/uploads/home/hero_logo_1775194341_9554.png" width="430" alt="SixTails">
 </a>
-<a href="https://github.com/protoX-SixTails" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=800&color=C9A45C&center=true&vCenter=true&width=850&lines=SIXTAILS+ENGINEERING+LAB;METIN2+SERVER+INFRASTRUCTURE;SERVER+%2B+CLIENT+%2B+NETWORK;PERFORMANCE+%2B+STABILITY+%2B+SCALABILITY;BUILDING+THE+NEXT+GENERATION." alt="SixTails Engineering">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:241313,100:7A2525&height=110&section=header" width="100%">
+
+</div>
+
+# `> SYSTEM ONLINE`
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   SIXTAILS ENGINEERING LAB                                      ║
+║                                                                  ║
+║   Developer  : Enes Deniz                                      ║
+║   Handle     : protoX-SixTails                                 ║
+║   Focus      : Metin2 Infrastructure                            ║
+║                                                                  ║
+║   SERVER     ████████████████████████  ONLINE                   ║
+║   CLIENT     ████████████████████████  ONLINE                   ║
+║   NETWORK    ████████████████████████  ONLINE                   ║
+║   DATABASE   ████████████████████████  ONLINE                   ║
+║                                                                  ║
+║   STATUS     : SIXTAILS ENGINE READY                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### `METIN2 INFRASTRUCTURE • SYSTEMS • PERFORMANCE`
+
+**TR** — Metin2 sunucu altyapıları, istemci sistemleri, server core,
+networking ve performans odaklı çözümler geliştiriyorum.
+
+**EN** — Building Metin2 server infrastructure, client systems,
+networking and performance-focused solutions.
+
+</div>
+
+---
+
+<div align="center">
+
+## `⚔ CHARACTER SELECT`
+
+<br>
+
+<img src="https://en-wiki.metin2.gameforge.com/images/e/ee/Warriors.png" width="135" alt="Warrior">
+&nbsp;&nbsp;&nbsp;
+<img src="https://en-wiki.metin2.gameforge.com/images/3/35/Ninjas.png" width="135" alt="Ninja">
+&nbsp;&nbsp;&nbsp;
+<img src="https://en-wiki.metin2.gameforge.com/images/4/40/Suras.png" width="135" alt="Sura">
+&nbsp;&nbsp;&nbsp;
+<img src="https://en-wiki.metin2.gameforge.com/images/1/18/Shamans.png" width="135" alt="Shaman">
+&nbsp;&nbsp;&nbsp;
+<img src="https://en-wiki.metin2.gameforge.com/images/3/36/Lycans.png" width="135" alt="Lycan">
+
+<br><br>
+
+`WARRIOR`　 `NINJA`　 `SURA`　 `SHAMAN`　 `LYCAN`
+
+</div>
+
+> **One world. Five paths. One engineering core.**
+
+---
+
+# `> BOOT SEQUENCE`
+
+```text
+[  OK  ] INITIALIZING SIXTAILS ENGINE
+[  OK  ] LOADING SERVER CORE
+[  OK  ] LOADING CLIENT SYSTEMS
+[  OK  ] INITIALIZING NETWORK LAYER
+[  OK  ] CONNECTING DATABASE
+[  OK  ] CHECKING GAME SYSTEMS
+[  OK  ] LOADING PERFORMANCE MODULES
+[  OK  ] VERIFYING RUNTIME
+[  OK  ] SIXTAILS ENGINE READY
+
+┌──────────────────────────────────────────────────────────────┐
+│ SYSTEM STATUS : ONLINE                                       │
+│ ENGINE MODE   : DEVELOPMENT                                  │
+│ TARGET        : SCALABLE GAME INFRASTRUCTURE                 │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> ENGINEERING LAB`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `SERVER CORE`
+
+```text
+C++
+├── Game Server
+├── Core Systems
+├── Character Systems
+├── Item Systems
+├── Dungeon Systems
+└── Runtime Optimization
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `CLIENT SYSTEMS`
+
+```text
+Python 2.7
+├── UI Systems
+├── Game Windows
+├── Client Features
+├── Network Interfaces
+├── Automation
+└── User Experience
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `NETWORK`
+
+```text
+NETWORKING
+├── Packet Systems
+├── P2P
+├── Server Communication
+├── Client Communication
+└── Synchronization
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `DATABASE`
+
+```text
+DATABASE
+├── MySQL
+├── Player Data
+├── Game Data
+├── System Data
+└── Query Optimization
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `> SYSTEMS ARSENAL`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DUNGEON%20%26%20BOSS%20SYSTEM-C9A45C?style=for-the-badge&labelColor=101010">
+<img src="https://img.shields.io/badge/OFFLINE%20SHOP-C9A45C?style=for-the-badge&labelColor=101010">
+<img src="https://img.shields.io/badge/BATTLEPASS-C9A45C?style=for-the-badge&labelColor=101010">
+<img src="https://img.shields.io/badge/GLOBAL%20SYSTEMS-C9A45C?style=for-the-badge&labelColor=101010">
+
+<br>
+
+<img src="https://img.shields.io/badge/EVENT%20SYSTEMS-7A2525?style=for-the-badge&labelColor=101010">
+<img src="https://img.shields.io/badge/ITEM%20SHOP-7A2525?style=for-the-badge&labelColor=101010">
+<img src="https://img.shields.io/badge/RANKING-7A2525?style=for-the-badge&labelColor=101010">
+<img src="https://img.shields.io/badge/PERFORMANCE-7A2525?style=for-the-badge&labelColor=101010">
+
+</div>
+
+<br>
+
+| Category              | Systems                                                              |
+| --------------------- | -------------------------------------------------------------------- |
+| ⚔️ **Gameplay**       | Dungeon & Boss Tracking · Boss Effects · Event Calendar · Battlepass |
+| 🌐 **Global**         | Global PM · Announcements · Ranking Systems                          |
+| 🛒 **Commerce**       | OfflineShop · Trade Glass · Item Shop · Automatic Selling            |
+| 🎒 **Items**          | Mob Drop Info · Advanced Cube · K Inventory                          |
+| 🧬 **Character**      | Character Change · Name Change · Respawn Systems                     |
+| 🎯 **Progression**    | Biologist · Battlepass · Events                                      |
+| ⚙️ **Infrastructure** | P2P · JSON Configuration · Runtime Optimization                      |
+
+---
+
+# `> TECHNOLOGY STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,linux,cmake,vscode" alt="Technology Stack">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C%2B%2B-SERVER%20CORE-C9A45C?style=flat-square&labelColor=101010">
+<img src="https://img.shields.io/badge/PYTHON-CLIENT-C9A45C?style=flat-square&labelColor=101010">
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-C9A45C?style=flat-square&labelColor=101010">
+<img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-C9A45C?style=flat-square&labelColor=101010">
+<img src="https://img.shields.io/badge/LINUX-SERVER-7A2525?style=flat-square&labelColor=101010">
+
+</div>
+
+---
+
+# `> DEVELOPMENT PRINCIPLES`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  STABILITY        →  Predictable runtime                    │
+│  PERFORMANCE      →  Less overhead                           │
+│  SCALABILITY      →  Built for growth                        │
+│  MODULARITY       →  Systems that evolve                    │
+│  MAINTAINABILITY  →  Clean and understandable code          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# `> CURRENT FOCUS`
+
+<div align="center">
+
+`SERVER CORE`
+
+⬇
+
+`NETWORKING`
+
+⬇
+
+`CLIENT SYSTEMS`
+
+⬇
+
+`DATABASE`
+
+⬇
+
+`PERFORMANCE`
+
+⬇
+
+`SIXTAILS`
+
+</div>
+
+<br>
+
+---
+
+# `> GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=protoX-SixTails&show_icons=true&hide_border=true&bg_color=101010&title_color=C9A45C&icon_color=C9A45C&text_color=E8D7A8&ring_color=C9A45C&include_all_commits=true" height="180" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=protoX-SixTails&layout=compact&hide_border=true&bg_color=101010&title_color=C9A45C&text_color=E8D7A8" height="180" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=protoX-SixTails&hide_border=true&background=101010&ring=C9A45C&fire=7A2525&currStreakLabel=C9A45C&sideLabels=E8D7A8&dates=777777" alt="GitHub Streak">
+
+</div>
+
+---
+
+# `> CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=protoX-SixTails&bg_color=101010&color=C9A45C&line=7A2525&point=E8D7A8&area_color=7A2525&area=true&hide_border=true&custom_title=SIXTAILS%20DEVELOPMENT%20ACTIVITY" width="96%" alt="GitHub Activity Graph">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/protoX-SixTails">
+<b>⚔️ GITHUB / protoX-SixTails</b>
 </a>
-<a href="https://forum.turkmmo.com/uye/2433165-sixtails/" target="_blank">
-<img src=https://img.shields.io/badge/SixTails-Turkmmo-orange alt=turkmmo style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-</a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python" width="40" height="40"/> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-</a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-</a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-</a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-</a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> 
-</a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-</a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-</a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-</a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+   •   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acarfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="SixTails" /></p>
+<a href="https://www.sixtails.com.tr/">
+<b>🐉 SIXTAILS / sixtails.com.tr</b>
+</a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=protoX-SixTails&show_icons=true&theme=dark&locale=en" alt="SixTails" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SixTails&theme=dark" alt="SixTails" /></p>
+---
 
+# `> CONTRIBUTION SNAKE`
 
-</br>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/protoX-SixTails/protoX-SixTails/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/protoX-SixTails/protoX-SixTails/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/protoX-SixTails/protoX-SixTails/output/github-snake.svg" width="96%">
+</picture>
+
+</div>
+
+---
+
+# `> SIXTAILS`
+
+<div align="center">
+
+<a href="https://www.sixtails.com.tr/">
+<img src="https://www.sixtails.com.tr/uploads/home/hero_logo_1775194341_9554.png" width="260" alt="SixTails">
+</a>
+
+<br><br>
+
+**GELECEĞİN METİN2 ALTYAPISI**
+
+<br>
+
+<sub>
+Infrastructure • Systems • Performance • Engineering
+</sub>
+
+<br><br>
+
+<a href="https://github.com/protoX-SixTails">
+<img src="https://img.shields.io/badge/GITHUB-protoX--SixTails-C9A45C?style=for-the-badge&logo=github&logoColor=C9A45C&labelColor=101010" alt="GitHub">
+</a>
+
+<a href="https://www.sixtails.com.tr/">
+<img src="https://img.shields.io/badge/SIXTAILS-WEBSITE-C9A45C?style=for-the-badge&logo=googlechrome&logoColor=C9A45C&labelColor=101010" alt="SixTails Website">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:7A2525,100:C9A45C&height=130&section=footer" width="100%">
+
+<sub>© SixTails Engineering</sub>
+
+</div>
